@@ -1295,7 +1295,6 @@ export class GeneratedAPIs {
   language = language;
   libraryagent = libraryagent;
   licensing = licensing;
-  lifesciences = lifesciences;
   localservices = localservices;
   logging = logging;
   looker = looker;
