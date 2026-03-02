@@ -972,7 +972,6 @@ export const APIS: APIList = {
   language: languageVersions,
   libraryagent: libraryagentVersions,
   licensing: licensingVersions,
-  lifesciences: lifesciencesVersions,
   localservices: localservicesVersions,
   logging: loggingVersions,
   looker: lookerVersions,
