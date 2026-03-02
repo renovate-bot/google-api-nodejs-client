@@ -436,7 +436,6 @@ import {VERSIONS as kmsinventoryVersions, kmsinventory} from './kmsinventory';
 import {VERSIONS as languageVersions, language} from './language';
 import {VERSIONS as libraryagentVersions, libraryagent} from './libraryagent';
 import {VERSIONS as licensingVersions, licensing} from './licensing';
-import {VERSIONS as lifesciencesVersions, lifesciences} from './lifesciences';
 import {
   VERSIONS as localservicesVersions,
   localservices,
